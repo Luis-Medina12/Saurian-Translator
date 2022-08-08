@@ -1,5 +1,3 @@
-package com.company.GeeksForGeeks;
-
 import java.util.HashMap;
 
 public class hashedChars {
