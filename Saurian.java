@@ -1,5 +1,3 @@
-package com.company.GeeksForGeeks;
-
 public class Saurian
 {
     private String engForm;
